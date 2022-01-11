@@ -13,7 +13,7 @@
 
 
 <b>
-<center> Screenshout of the game
+<p align = "center"> Screenshout of the game
 </b>
 
 <br>
