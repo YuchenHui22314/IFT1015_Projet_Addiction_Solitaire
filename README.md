@@ -1,4 +1,6 @@
 # IFT1015_Projet_Addiction_Solitaire
+**brief description**
+It is a little interesting card game.
 
 **Steps for executing the web applicatoin:**
 1. Execute program `serveur-web.py` with `linux > python3 serveur-web.py`
