@@ -15,7 +15,7 @@ It is a little interesting card game.
 
 
 <b>
-<p align = "center"> Screenshout of the game
+<p align = "center"> Screenshot of the game
 </b>
 
 <br>
